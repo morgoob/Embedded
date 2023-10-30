@@ -35,9 +35,3 @@ This Arduino script is designed to monitor data from an accelerometer and variou
     - `COORD_UUID` for accelerometer data
     - `MOVEMENT_UUID` for movement status
     - `OBSTACLE_UUID` for obstacle detection
-
-## License
-
-This script is open-source and provided under the [MIT License](LICENSE).
-
-Feel free to customize and use it for your own projects. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue.
