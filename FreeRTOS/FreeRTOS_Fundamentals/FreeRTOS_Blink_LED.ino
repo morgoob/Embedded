@@ -37,7 +37,7 @@ void setup() {
     NULL,           // parameter to task
     1,              // task priority -> higher #, higher priority
     NULL,           // task handle
-    app_cpu);         // run task on one core (ESP32)
+    app_cpu);       // run task on one core (ESP32)
   
   // if this was vanilla FreeRTOS, we'd have to cakll vTaskStartScheduler() in main
   // after setup is complete. On ESP32 this is called for us 
