@@ -24,6 +24,8 @@ void toggleLed(void *param) {
   }
 }
 
+// setup() and loop() run as their own tasks with priority one on core one on the 
+// ESP32. Thus they might override other tasks we create if they have lower priority
 void setup() { 
   pinMode(led_pin, OUTPUT);
   xTaskCreatePinnedToCore(
