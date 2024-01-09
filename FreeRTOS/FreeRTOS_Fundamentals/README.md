@@ -9,7 +9,7 @@ Welcome to the FreeRTOS Fundamentals repository! This collection of projects ser
 ## Projects
 
 1. [**Blinking LED:**](FreeRTOS_Blink_LED.ino) Simple project demonstrating very basic task creation with a blinking LED.
-2. _(Add more projects as you create them)_
+
 
 ## Getting Started
 
