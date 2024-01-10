@@ -10,7 +10,8 @@ Welcome to the FreeRTOS Fundamentals repository! This collection of projects ser
 The following list of projects ascend by increasing complexity.
 
 1. [**Blinking LED:**](FreeRTOS_Blinky.ino) Simple project demonstrating very basic task creation with a blinking LED.
-2. [**Blinking LED with two tasks, prioritized**](FreeRTOS_Blinky_Prioritized.ino) Simple projet demonstrating task prioritization. Lower priority tasks blinks led at random intervals and higher priority task blinks every one second. 
+2. [**Blinking LED with two tasks, prioritized**](FreeRTOS_Blinky_Prioritized.ino) Simple project demonstrating task prioritization. Lower priority tasks blinks led at random intervals and higher priority task blinks every one second.
+3. [**Task Preemption**](FreeRTOS_Task_Preemption.ino) Simple example of task preemption.
 
 
 ## Getting Started
