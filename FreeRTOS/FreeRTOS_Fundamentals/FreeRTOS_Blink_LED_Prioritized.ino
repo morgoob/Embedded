@@ -1,3 +1,30 @@
+/*
+ * FreeRTOS ESP32 Project
+ * -------------------------
+ * Project Description:
+ *   Simple projet demonstrating task prioritization. Lower priority tasks blinks led at random intervals 
+ *   and higher priority task blinks every one second.
+ *
+ * Author:
+ *   Morgan Lloyd
+ *
+ * Date:
+ *   January 09, 2024
+ *
+ * Board:
+ *   Adafruit HUZZAH32 – ESP32 Feather Board
+ *
+ * References:
+ *   These projects were created while following along with Shawn Hymel's 
+ *   YouTube series on FreeRTOS (https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
+ *
+ * GitHub Repository:
+ *   https://github.com/morgoob/Embedded/tree/main/FreeRTOS/FreeRTOS_Fundamentals
+ *
+ * -------------------------
+ * This code is provided as-is, without warranty or support. Use at your own risk.
+ */
+
 // We want to use only core 1 for this example exercise 
 // CONFIG_FREERTOS_UNICORE is defined in sdkconfig.h
 
