@@ -6,7 +6,7 @@ Welcome to the Embedded Projects repository! This collection includes projects r
 
 Explore fundamental examples of Real-Time Operating Systems (RTOS) using FreeRTOS. Projects cover tasks, prioritization, preemption, memory management, etc..
 
-## 2. [BLE Accelerometer Sensor Monitor]((BLE_Accelerometer_Sensor_Monitor)
+## 2. [BLE Accelerometer Sensor Monitor](BLE_Accelerometer_Sensor_Monitor)
 
 Monitor data from an accelerometer and sensors over Bluetooth Low Energy (BLE). Provides real-time information about movement, obstacle detection, and accelerometer data.
 
