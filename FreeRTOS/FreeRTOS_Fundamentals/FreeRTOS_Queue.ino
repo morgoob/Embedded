@@ -56,7 +56,6 @@ void printMessage(void *param) {
 }
 
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(115200); 
 
   // delaying setup task for 1s so we do not want to miss serial output
