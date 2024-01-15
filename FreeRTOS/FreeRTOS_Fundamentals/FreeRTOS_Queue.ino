@@ -58,7 +58,7 @@ void printMessage(void *param) {
 void setup() {
   Serial.begin(115200); 
 
-  // delaying setup task for 1s so we do not want to miss serial output
+  // delaying setup task for 1s so we do not miss serial output
   vTaskDelay(1000 / portTICK_PERIOD_MS);
   Serial.println();
   Serial.println("*****FreeRTOS Task-Safe Queue Demo*****");
