@@ -33,7 +33,7 @@ static const BaseType_t app_cpu = 1;
 #endif
 
 // change to 1024 to see stack overflow 
-#define TASK_STACK_SIZE 1500
+static const uint32_t TASK_STACK_SIZE = 1500;
 
 // A mundane task 
 void testTask(void *param) {
