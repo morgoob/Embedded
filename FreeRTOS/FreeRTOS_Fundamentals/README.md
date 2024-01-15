@@ -13,7 +13,7 @@ The following list of projects ascend by increasing complexity.
 2. [**Task Creation II**](FreeRTOS_Blinky_Prioritized.ino) 
 3. [**Task Preemption**](FreeRTOS_Task_Preemption.ino) 
 4. [**Memory Management**](FreeRTOS_Memory_Management.ino)
-5. [**Simple Task-Safe Queue**](FreeRTOS_Queue.ino)
+5. [**Task-Safe Queue I**](FreeRTOS_Queue.ino)
 
 
 ## Getting Started
