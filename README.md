@@ -2,7 +2,7 @@
 
 Welcome to the Embedded Projects repository! This collection includes projects related to Embedded Systems. Below are the subdirectories along with a brief description of each. For detailed information, please refer to their respective README files.
 
-## 1. [FreeRTOS Fundamentals](FreeRTOS/FreeRTOS_Fundamentals) (WIP)
+## 1. [FreeRTOS Fundamentals](FreeRTOS/FreeRTOS_Fundamentals)
 
 Explore fundamental examples of Real-Time Operating Systems (RTOS) using FreeRTOS. Projects cover tasks, prioritization, preemption, memory management, etc..
 
