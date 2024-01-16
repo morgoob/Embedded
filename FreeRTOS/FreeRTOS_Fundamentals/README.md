@@ -16,6 +16,7 @@ The following list of projects ascend by increasing complexity.
 5. [**Task-Safe Queue I**](FreeRTOS_Queue.ino)
 6. [**Task-Safe Queue II**](FreeRTOS_Queue_II.ino)
 
+**Note:** All programs in this collection have descriptive comment blocks explaining functionality.
 
 ## Getting Started
 
