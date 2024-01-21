@@ -37,7 +37,7 @@ Follow these steps to set up the ESP32 on the Arduino IDE:
 If you find any errors, have suggestions, or want to contribute, please open an issue or submit a pull request.
 
 ## Credit
-These projects were created while following along with Shawn Hymel's YouTube series on FreeRTOS. Check out his [FreeRTOS Tutorials](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) for in-depth explanations and additional insights.
+These projects were created while following along with [Shawn Hymel's](@ShawnHymel) YouTube series on FreeRTOS. Check out his [FreeRTOS Tutorials](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) for in-depth explanations and additional insights.
 
 ## Author
 
