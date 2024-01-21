@@ -15,6 +15,7 @@ The following list of projects ascend by increasing complexity.
 4. [**Memory Management**](FreeRTOS_Memory_Management.ino)
 5. [**Task-Safe Queue I**](FreeRTOS_Queue.ino)
 6. [**Task-Safe Queue II**](FreeRTOS_Queue_II.ino)
+7. [**Mutex**](FreeRTOS_Mutex.ino)
 
 **Note:** All programs in this collection have descriptive comment blocks explaining functionality.
 
