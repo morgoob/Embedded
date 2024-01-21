@@ -79,7 +79,6 @@ void setup() {
   Serial.println(" as a parameter to our task");
 
   mutex = xSemaphoreCreateMutex();
-  xSemaphoreTake(mutex, portMAX_DELAY);
   xTaskCreatePinnedToCore(task,
                         "example task",
                         1024,
@@ -87,8 +86,7 @@ void setup() {
                         1,
                         NULL,
                         app_cpu);
-  xSemaphoreGive(mutex);
-
+                        
   // short delay to make sure mutex is acquired by other task
   vTaskDelay(portTICK_PERIOD_MS);
   xSemaphoreTake(mutex, portMAX_DELAY);
