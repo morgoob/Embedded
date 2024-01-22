@@ -7,7 +7,6 @@ This directory contains fundamental examples of Real-Time Operating Systems (RTO
 Welcome to the FreeRTOS Fundamentals repository! This collection of projects serves as an introduction to Real-Time Operating Systems (RTOS) concepts using FreeRTOS. Each example is implemented on the Adafruit HUZZAH32 – ESP32 Feather Board.
 
 ## Projects
-The following list of projects ascend by increasing complexity.
 
 1. [**Task Creation I**](FreeRTOS_Blinky.ino) 
 2. [**Task Creation II**](FreeRTOS_Blinky_Prioritized.ino) 
