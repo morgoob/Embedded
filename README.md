@@ -4,7 +4,7 @@ Welcome to the Embedded Projects repository! This collection includes projects r
 
 ## 1. [FreeRTOS Fundamentals](FreeRTOS/FreeRTOS_Fundamentals)
 
-Explore fundamental examples of Real-Time Operating Systems (RTOS) using FreeRTOS. Projects cover tasks, prioritization, preemption, memory management, etc..
+Projects cover fundamental Real-Time Operating Systems (RTOS) concepts using FreeRTOS. Projects cover tasks, prioritization, preemption, memory management, etc..
 
 ## 2. [BLE Accelerometer Sensor Monitor](BLE_Accelerometer_Sensor_Monitor)
 
