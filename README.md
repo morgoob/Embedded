@@ -10,4 +10,4 @@ Projects cover fundamental Real-Time Operating Systems (RTOS) concepts using Fre
 
 Monitor data from an accelerometer and sensors over Bluetooth Low Energy (BLE). Provides real-time information about movement, obstacle detection, and accelerometer data.
 
-Feel free to explore each subdirectory for detailed project information and instructions!
+Feel free to explore each subdirectory for detailed project information and instructions.
